@@ -14,4 +14,4 @@ Follow the instructions on Cascade trainer website to train the cascade.
 Use the resulting cascade as an argurment along with the image for obj_det.py script which detects an apple and makes a rectangle around it.
 The result is the result.jpg
 
-![alt text](https://github.com/https://github.com/radovan994/apple-cascade/blob/master/result.jpg?raw=true)
+![alt text](https://github.com/radovan994/apple-cascade/blob/master/result.jpg?raw=true)
